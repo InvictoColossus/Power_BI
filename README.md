@@ -1,2 +1,2 @@
 # Power_BI
-Aulas PowerBi
+Curso de PowerBI
